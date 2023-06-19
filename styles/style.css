@@ -1,13 +1,11 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 600px;
 }
 
 .grid {
-    width: 25px;
-    height: 25px;
-    column-gap: 0px;
-    background-color: green;
+    width: 6.25%;
+    height: 6.25%;
 }
